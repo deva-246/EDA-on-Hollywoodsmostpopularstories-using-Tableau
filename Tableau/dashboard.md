@@ -10,7 +10,6 @@ Though the count of audience score is high in comedy genre, Fantasy holds highes
 
 2010 is considered to be the highest revenue collection year.
 
-![image](https://github.com/deva-246/EDA-on-Hollywoodsmostpopularstories-using-Tableau/assets/75877347/54c10d04-4900-4046-9e75-4bbb69111afe)
 
 ## 2010 Revenue Overview
 
