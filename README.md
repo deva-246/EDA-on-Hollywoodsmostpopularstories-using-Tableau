@@ -13,7 +13,7 @@
     
     5. Profitability
     
-    6. Rotten tomatoes%
+    6. Rotten tomatoes% (Rating platform)
     
     7. worldwide gross
     
