@@ -1,5 +1,5 @@
 # EDA-on-Hollywoodsmostpopularstories-using-Tablue
-
+In this project, from the visualizations we can extract insights about audience's film preference and studio's profitability with respect to each genre.
 
 ## Datafields 
 
